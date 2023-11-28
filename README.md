@@ -14,6 +14,6 @@ liveness_demo:
 
 Run:
 
-	python liveness_demo.py --model CNN_model --detector face_detector
+	python liveness_demo.py --model Model --detector face_detector
 	
 	
